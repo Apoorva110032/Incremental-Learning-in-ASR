@@ -1,0 +1,13 @@
+[submodule "vision-engine-migration/datasets/face-emotion-recognition"]
+	path = vision-engine-migration/datasets/face-emotion-recognition
+	url = https://github.com/HSE-asavchenko/face-emotion-recognition
+[submodule "vision-engine-migration/datasets/Pytorch_Retinaface"]
+	path = vision-engine-migration/datasets/Pytorch_Retinaface
+	url = https://github.com/biubug6/Pytorch_Retinaface
+[submodule "vision-engine-migration/yolov5"]
+	path = vision-engine-migration/yolov5
+	url = https://github.com/ultralytics/yolov5
+[submodule "Nsfw-engine/Models/EfficientNet-PyTorch"]
+	path = Nsfw-engine/Models/EfficientNet-PyTorch
+	url = https://github.com/lukemelas/EfficientNet-PyTorch
+
